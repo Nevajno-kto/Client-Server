@@ -1,0 +1,6 @@
+C:\Users\m1rr0\OneDrive\Рабочий стол\UNI\Работы\2 курс\Сети\ServerTCP\ServerTCP\bin\Debug\ServerTCP.exe.config
+C:\Users\m1rr0\OneDrive\Рабочий стол\UNI\Работы\2 курс\Сети\ServerTCP\ServerTCP\bin\Debug\ServerTCP.exe
+C:\Users\m1rr0\OneDrive\Рабочий стол\UNI\Работы\2 курс\Сети\ServerTCP\ServerTCP\bin\Debug\ServerTCP.pdb
+C:\Users\m1rr0\OneDrive\Рабочий стол\UNI\Работы\2 курс\Сети\ServerTCP\ServerTCP\obj\Debug\ServerTCP.csprojResolveAssemblyReference.cache
+C:\Users\m1rr0\OneDrive\Рабочий стол\UNI\Работы\2 курс\Сети\ServerTCP\ServerTCP\obj\Debug\ServerTCP.exe
+C:\Users\m1rr0\OneDrive\Рабочий стол\UNI\Работы\2 курс\Сети\ServerTCP\ServerTCP\obj\Debug\ServerTCP.pdb

@@ -1,0 +1,6 @@
+C:\Users\m1rr0\OneDrive\Рабочий стол\UNI\Работы\2 курс\Сети\ClientTCP\ClientTCP\bin\Debug\ClientTCP.exe.config
+C:\Users\m1rr0\OneDrive\Рабочий стол\UNI\Работы\2 курс\Сети\ClientTCP\ClientTCP\bin\Debug\ClientTCP.exe
+C:\Users\m1rr0\OneDrive\Рабочий стол\UNI\Работы\2 курс\Сети\ClientTCP\ClientTCP\bin\Debug\ClientTCP.pdb
+C:\Users\m1rr0\OneDrive\Рабочий стол\UNI\Работы\2 курс\Сети\ClientTCP\ClientTCP\obj\Debug\ClientTCP.exe
+C:\Users\m1rr0\OneDrive\Рабочий стол\UNI\Работы\2 курс\Сети\ClientTCP\ClientTCP\obj\Debug\ClientTCP.pdb
+C:\Users\m1rr0\OneDrive\Рабочий стол\UNI\Работы\2 курс\Сети\ClientTCP\ClientTCP\obj\Debug\ClientTCP.csprojResolveAssemblyReference.cache
